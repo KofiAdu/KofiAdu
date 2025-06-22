@@ -1,30 +1,30 @@
-# 👋 Hi, I'm Kofi Agyekum
+# Hi, I'm Kofi Agyekum
 
 I'm a Fullstack Developer with strong experience in building scalable web apps and data pipelines, and a growing focus on machine learning and geospatial technologies. I enjoy solving real-world problems through code—whether it's interactive dashboards, smart analytics, or mapping systems.
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-### 🧑‍💻 Fullstack Development
+### Fullstack Development
 - Building user-focused web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, and **Express**
-- Creating clean, maintainable backend APIs with **FastAPI**, **Flask**, and **MongoDB/PostgreSQL**
+- Creating clean, maintainable backend APIs with **FastAPI**, **Flask**, and **MongoDB/PostgreSQL/SQL**
 - Integrating REST APIs and working with cloud services (primarily **Azure**)
 
-### 🧠 Machine Learning & Data Science
+### Machine Learning & Data Science
 - Experience with supervised learning: **Regression**, **Classification**, **KNN**, **Decision Trees**, and **Random Forest**
 - Unsupervised learning: **K-Means Clustering**
 - **Natural Language Processing** and data wrangling with **Pandas**, **NumPy**, **Scikit-learn**
 - Visualization using **Matplotlib** and **Power BI** and **Seaborn**
 
-### 🌍 Geospatial Development
-- Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**
+### Geospatial Development
+- Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**, and **Rasterio**
 - Built WebGIS applications using **MapboxGL**, **OpenLayers**, and **Leaflet**
-- Experience working with **Landsat 8**, **NDVI**, and routing analysis with **OSMnx** and **NetworkX**
+- Experience working with **Landsat 8**, **NDVI**, **GeoJSON**, **Shapefiles**, **Geopackages**, and routing analysis with **OSMnx** and **NetworkX**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages  
 `Python` `JavaScript` `TypeScript` `SQL` `Java` `HTML/CSS`
@@ -43,7 +43,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 - **Hospital Access Simulator (WebGIS + ML)**  
   An interactive tool that simulates healthcare coverage based on population and road network distances using Random Forests and spatial data.
