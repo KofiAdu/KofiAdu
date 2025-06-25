@@ -43,19 +43,6 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 
 ---
 
-## Featured Projects
-
-- **Hospital Access Simulator (WebGIS + ML)**  
-  An interactive tool that simulates healthcare coverage based on population and road network distances using Random Forests and spatial data.
-  
-- **NDVI Vegetation Mapping (Remote Sensing)**  
-  A two-part project calculating and visualizing NDVI using Landsat 8 SR data, Python (Rasterio), and QGIS.
-  
-- **Mineral Deposits Visualization (Finland)**  
-  A React + Mapbox frontend demo showing mineral deposit layers from GTK using QGIS and custom CRS conversion in Python.
-
----
-
 ## Connect With Me
 
 -  [LinkedIn](https://linkedin.com/in/kofi-agyekum12)
