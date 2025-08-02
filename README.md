@@ -46,7 +46,6 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 ## Connect With Me
 
 -  [LinkedIn](https://linkedin.com/in/kofi-agyekum12)
--  [GitHub](https://github.com/KofiAdu)
 -  [Email](mailto:adukofi73@yahoo.com)
 -  [dev.to](https://dev.to/KofiAdu)
 -  [kaggle.com](https://www.kaggle.com/kofiaduagyekum)
