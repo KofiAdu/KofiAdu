@@ -36,7 +36,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 `scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost` `Tensorflow` `Pytorch`
 
 ### GIS Tools  
-`QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio`
+`QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio` `GDAL`
 
 ### Cloud & DevOps  
 `Azure` `Azure DevOps` `Docker` `CI/CD` `Git` `GitHub Actions`
