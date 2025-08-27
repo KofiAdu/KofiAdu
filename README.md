@@ -33,7 +33,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 `React.js` `Next.js` `Node.js` `Express` `FastAPI` `Flask`
 
 ### ML / Data Science  
-`scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost`
+`scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost` `Tensorflow` `Pytorch`
 
 ### GIS Tools  
 `QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio`
