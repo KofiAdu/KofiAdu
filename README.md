@@ -19,6 +19,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 
 ### Geospatial Development
 - Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**, and **Rasterio**
+- Created plugins for QGIS
 - Built WebGIS applications using **MapboxGL**, **OpenLayers**, and **Leaflet**
 - Experience working with **Landsat 8**, **NDVI**, **GeoJSON**, **Shapefiles**, **Geopackages**, and routing analysis with **OSMnx** and **NetworkX**
 
