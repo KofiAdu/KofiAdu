@@ -9,6 +9,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 ### Fullstack Development
 - Building user-focused web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, and **Express**
 - Creating clean, maintainable backend APIs with **FastAPI**, **Flask**, and **MongoDB/PostgreSQL/SQL**
+- - Built interactive dashboards using **React**, **Chart.js**, and **D3.js**, connected to database for near real-time insights
 - Integrating REST APIs and working with cloud services (primarily **Azure**)
 
 ### Machine Learning & Data Science
@@ -22,7 +23,15 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 - Created plugins for QGIS
 - Built WebGIS applications using **MapboxGL**, **OpenLayers**, and **Leaflet**
 - Experience working with **Landsat 8**, **NDVI**, **GeoJSON**, **Shapefiles**, **Geopackages**, and routing analysis with **OSMnx** and **NetworkX**
+- Processed and transformed **geospatial raster data** (e.g., **Landsat 8 NDVI**) into usable analysis layers using **Rasterio**, **GeoPandas**, and **QGIS**
 
+### Data Engineering
+- Built end-to-end **ETL pipelines** using **Python**, **SQL**, and **Docker**, integrating with **PostgreSQL** and **PostGIS**
+- Orchestrated data workflows using **Airflow**
+- Experience with **Azure Blob Storage**, **VMs**, **Functions**, and containerized data services
+- Built and consumed **API-based ingestion** tools using **FastAPI** and **Flask**
+- Familiar with **Apache Spark**, **Hadoop**, and scalable data frameworks
+- Automated reporting pipelines, reducing manual workloads
 ---
 
 ## Tech Stack
