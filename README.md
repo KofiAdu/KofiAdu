@@ -18,13 +18,6 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 - **Natural Language Processing** and data wrangling with **Pandas**, **NumPy**, **Scikit-learn**
 - Visualization using **Matplotlib** and **Power BI** and **Seaborn**
 
-### Geospatial Development
-- Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**, and **Rasterio**
-- Created plugins for QGIS
-- Built WebGIS applications using **MapboxGL**, **OpenLayers**, and **Leaflet**
-- Experience working with **Landsat 8**, **NDVI**, **GeoJSON**, **Shapefiles**, **Geopackages**, and routing analysis with **OSMnx** and **NetworkX**
-- Processed and transformed **geospatial raster data** (e.g., **Landsat 8 NDVI**) into usable analysis layers using **Rasterio**, **GeoPandas**, and **QGIS**
-
 ### Data Engineering
 - Built end-to-end **ETL pipelines** using **Python**, **SQL**, and **Docker**, integrating with **PostgreSQL** and **PostGIS**
 - Orchestrated data workflows using **Airflow**
@@ -32,6 +25,13 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 - Built and consumed **API-based ingestion** tools using **FastAPI** and **Flask**
 - Familiar with **Apache Spark**, **Hadoop**, and scalable data frameworks
 - Automated reporting pipelines, reducing manual workloads
+  
+### Geospatial Development
+- Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**, and **Rasterio**
+- Created plugins for QGIS
+- Built WebGIS applications using **MapboxGL**, **OpenLayers**, and **Leaflet**
+- Experience working with **Landsat 8**, **NDVI**, **GeoJSON**, **Shapefiles**, **Geopackages**, and routing analysis with **OSMnx** and **NetworkX**
+- Processed and transformed **geospatial raster data** (e.g., **Landsat 8 NDVI**) into usable analysis layers using **Rasterio**, **GeoPandas**, and **QGIS**
 ---
 
 ## Tech Stack
