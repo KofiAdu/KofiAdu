@@ -9,7 +9,7 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 ### Fullstack Development
 - Building user-focused web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, and **Express**
 - Creating clean, maintainable backend APIs with **FastAPI**, **Flask**, and **MongoDB/PostgreSQL/SQL**
-- - Built interactive dashboards using **React**, **Chart.js**, and **D3.js**, connected to database for near real-time insights
+- Built interactive dashboards using **React**, **Chart.js**, and **D3.js**, connected to database for near real-time insights
 - Integrating REST APIs and working with cloud services (primarily **Azure**)
 
 ### Machine Learning & Data Science
