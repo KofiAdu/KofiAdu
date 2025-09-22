@@ -1,6 +1,6 @@
 # Hi, I'm Kofi Agyekum
 
-I'm a Fullstack Developer with strong experience in building scalable web apps and data pipelines, and a growing focus on machine learning and geospatial technologies. I enjoy solving real-world problems through code—whether it's interactive dashboards, smart analytics, or mapping systems.
+I'm a Software Developer with strong experience in building scalable web apps and data pipelines, and a growing focus on machine learning and geospatial technologies. I enjoy solving real-world problems through code—whether it's interactive dashboards, smart analytics, or mapping systems.
 
 ---
 
