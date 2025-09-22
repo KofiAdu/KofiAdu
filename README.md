@@ -45,11 +45,15 @@ I'm a Fullstack Developer with strong experience in building scalable web apps a
 ### ML / Data Science  
 `scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost` `Tensorflow` `Pytorch`
 
+### Data Engineering & Orchestration  
+`Apache Airflow` `Prefect` `Apache Spark` `Hadoop` `ETL Pipelines`  
+`Parquet` `JSON` `REST APIs` `Delta Lake`
+
 ### GIS Tools  
 `QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio` `GDAL`
 
 ### Cloud & DevOps  
-`Azure` `Azure DevOps` `Docker` `CI/CD` `Git` `GitHub Actions`
+`Azure` `Azure DevOps` `Azure Blob Storage` `Azure SQL` `Docker` `CI/CD` `Git` `GitHub Actions`
 
 ---
 
