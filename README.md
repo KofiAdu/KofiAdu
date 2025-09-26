@@ -40,7 +40,7 @@ I'm a Software Developer with strong experience in building scalable web apps an
 `Python` `JavaScript` `TypeScript` `SQL` `Java` `HTML/CSS`
 
 ### Frameworks & Libraries  
-`React.js` `Next.js` `Node.js` `Express` `FastAPI` `Flask`
+`React.js` `Next.js` `Node.js` `Express` `FastAPI` `Flask` `Material UI` `Tailwind`
 
 ### ML / Data Science  
 `scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost` `Tensorflow` `Pytorch`
