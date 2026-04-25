@@ -12,19 +12,17 @@ I'm a Software Developer with strong experience in building scalable web apps an
 - Built interactive dashboards using **React**, **Chart.js**, and **D3.js**, connected to database for near real-time insights
 - Integrating REST APIs and working with cloud services (primarily **Azure**)
 
-### Machine Learning & Data Science
-- Experience with supervised learning: **Regression**, **Classification**, **KNN**, **Decision Trees**, and **Random Forest**
-- Unsupervised learning: **K-Means Clustering**
-- **Natural Language Processing** and data wrangling with **Pandas**, **NumPy**, **Scikit-learn**
-- Visualization using **Matplotlib** and **Power BI** and **Seaborn**
-
 ### Data Engineering
-- Built end-to-end **ETL pipelines** using **Python**, **SQL**, and **Docker**, integrating with **PostgreSQL** and **PostGIS**
-- Orchestrated data workflows using **Airflow**
-- Experience with **Azure Blob Storage**, **VMs**, **Functions**, and containerized data services
-- Built and consumed **API-based ingestion** tools using **FastAPI** and **Flask**
-- Familiar with **Apache Spark**, **Hadoop**, and scalable data frameworks
-- Automated reporting pipelines, reducing manual workloads
+- Built end-to-end **ETL/ELT pipelines** using **Python**, **SQL**, **PySpark**, and **Docker**, integrating with **PostgreSQL**, **PostGIS**, **MySQL**, and cloud-based storage systems
+- Designed and maintained **analytics-ready data models**, **data marts**, and structured datasets to support dashboards, reporting layers, and data-driven applications
+- Worked with modern data platforms and tooling including **Databricks**, **Snowflake**, **dbt**, **Apache Spark**, and scalable data processing frameworks
+- Orchestrated and automated data workflows using **Airflow**, **GitHub Actions**, and **Azure DevOps** to improve reliability and reduce manual reporting work
+- Built and consumed **API-based ingestion services** using **FastAPI**, **Flask**, and **Node.js**, enabling data collection from internal systems, geospatial sources, and application backends
+- Experience with **Azure Blob Storage**, **Azure VMs**, **Azure Functions**, containerized services, and cloud deployment workflows
+- Implemented secure and role-aware data workflows, including **tenant/admin access control**, structured API access, and data services for analytics-facing applications
+- Built dashboards and BI/reporting interfaces using **React**, **Power BI**, and SQL-backed data layers to make insights more accessible to technical and non-technical users
+- Supported documentation, debugging, code review, and reusable data tooling to improve developer productivity and maintainable data processes
+- Interested in scalable data platforms, data governance, AI-enabled workflows, and using data to support better product and user decisions
   
 ### Geospatial Development
 - Geospatial analytics using **GeoPandas**, **QGIS**, **PostGIS**, and **Rasterio**
@@ -42,12 +40,10 @@ I'm a Software Developer with strong experience in building scalable web apps an
 ### Frameworks & Libraries  
 `React.js` `Next.js` `Node.js` `Express` `FastAPI` `Flask` `Material UI` `Tailwind`
 
-### ML / Data Science  
-`scikit-learn` `pandas` `NumPy` `matplotlib` `OpenCV` `Seaborn` `XGBoost` `Tensorflow` `Pytorch`
-
 ### Data Engineering & Orchestration  
-`Apache Airflow` `Prefect` `Apache Spark` `Hadoop` `ETL Pipelines`  
-`Parquet` `JSON` `REST APIs` `Delta Lake`
+`Apache Airflow` `Apache Spark` `Hadoop` `ETL Pipelines`  
+`Parquet` `JSON` `REST APIs` `Delta Lake` `dbt` `Snowflake` `CSV`
+`XML`
 
 ### GIS Tools  
 `QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio` `GDAL`
