@@ -35,21 +35,21 @@ I'm a Software Developer with strong experience in building scalable web apps an
 ## Tech Stack
 
 ### Languages  
-`Python` `JavaScript` `TypeScript` `SQL` `Java` `HTML/CSS`
+`Python` `JavaScript` `TypeScript` `SQL` `Java` `C#`
 
 ### Frameworks & Libraries  
 `React.js` `Next.js` `Node.js` `Express` `FastAPI` `Flask` `Material UI` `Tailwind`
 
 ### Data Engineering & Orchestration  
-`Apache Airflow` `Apache Spark` `Hadoop` `ETL Pipelines`  
+`Apache Airflow` `Apache Spark` `PySpark` `ETL/ELT Pipelines`  
 `Parquet` `JSON` `REST APIs` `Delta Lake` `dbt` `Snowflake` `CSV`
-`XML`
+`XML` `Databricks`
 
 ### GIS Tools  
 `QGIS` `GeoPandas` `PostGIS` `MapboxGL` `Leaflet` `OpenLayers` `OSMnx` `NetworkX` `Rasterio` `GDAL`
 
 ### Cloud & DevOps  
-`Azure` `Azure DevOps` `Azure Blob Storage` `Azure SQL` `Docker` `CI/CD` `Git` `GitHub Actions`
+`Azure` `Azure DevOps` `Azure Blob Storage` `Azure SQL` `Docker` `CI/CD` `Git` `GitHub Actions` 
 
 ---
 
